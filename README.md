@@ -20,5 +20,9 @@ The system reads Net Operating Income (NOI) values and computes statistical meas
 - stats.c / stats.h – statistical functions
 - property_data.txt – sample dataset
 
-## How to Run
-Compile:
+
+## Sample Data
+The dataset represents monthly NOI values of a property.
+
+## Author
+Alex Ji
