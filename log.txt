@@ -1,0 +1,3 @@
+FILE *log = fopen("log.txt", "a");
+fprintf(log, "Program started\n");
+fclose(log);
